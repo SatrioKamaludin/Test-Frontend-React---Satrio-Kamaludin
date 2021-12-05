@@ -1,0 +1,32 @@
+.Category {
+    margin: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.card-group {
+    margin: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.CategoryCard {
+    position: relative;
+    box-sizing: border-box;
+    height:7.5rem;
+}
+
+.CategoryCardBody {
+    padding: 0rem;
+}
+
+.CategoryCardTitle {
+    margin: auto;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+.CategoryCardImg {
+    width: 5rem;
+    margin: auto;
+}

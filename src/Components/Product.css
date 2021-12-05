@@ -1,0 +1,44 @@
+.Product {
+    margin: auto;
+    width: 300px;
+    height: 360px;
+    overflow-y: scroll;
+    left: 50%;
+}
+
+.ProductCol {
+    padding-bottom: 1rem;
+}
+
+.ProductCard {
+    position: relative;
+    box-sizing: border-box;
+}
+
+.ProductName {
+    font-size: 0.9rem;
+    font-weight: bold;
+    padding-left: 0.2rem;
+    margin-bottom: 0.25rem;
+    text-align: justify;
+}
+
+.ProductPrice {
+    font-size: 0.9rem;
+    font-weight: bold;
+    padding-left: 0.2rem;
+    color: red;
+    text-align: justify;
+}
+
+.ProductLocation {
+    font-size: 0.9rem;
+    font-weight: lighter;
+    padding-left: 0.2rem;
+    margin-bottom: 0.25rem;
+    text-align: justify;
+}
+
+.ProductCardBody {
+    padding: 0rem;
+}
